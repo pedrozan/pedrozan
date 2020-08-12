@@ -6,7 +6,7 @@
 - 💬 Ask me about Databases, Python and JavaScript 
 - 😄 Pronouns: He/His 
 
-# Blog posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
