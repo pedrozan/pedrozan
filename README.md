@@ -8,11 +8,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimize Your Docker Build](https://pedrofullstack.com/2020/09/05/optimize-your-docker-build/)
 - [How To Use Decorators In Python](https://pedrofullstack.com/2020/08/28/how-to-use-decorators-in-python/)
 - [Logs with Flask and Gunicorn](https://pedrofullstack.com/2020/08/14/logs-with-flask-and-gunicorn/)
 - [A Guide for Design Patterns in JavaScript](https://pedrofullstack.com/2020/08/06/a-guide-for-design-patterns-in-javascript/)
 - [The Magic of Time Boxing](https://pedrofullstack.com/2020/07/30/the-magic-of-time-boxing/)
-- [Building an Angular Development Environment on Windows With WSL and VSCode](https://pedrofullstack.com/2020/07/30/building-an-angular-development-environment-on-windows-with-wsl-and-vscode/)
 <!-- BLOG-POST-LIST:END -->
 
 
