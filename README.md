@@ -8,11 +8,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Client-Server architecture on an MVP](https://pedrofullstack.com/2020/10/17/the-client-server-architecture-on-an-mvp/)
 - [Optimize Your Docker Build](https://pedrofullstack.com/2020/09/05/optimize-your-docker-build/)
 - [How To Use Decorators In Python](https://pedrofullstack.com/2020/08/28/how-to-use-decorators-in-python/)
 - [Logs with Flask and Gunicorn](https://pedrofullstack.com/2020/08/14/logs-with-flask-and-gunicorn/)
 - [A Guide for Design Patterns in JavaScript](https://pedrofullstack.com/2020/08/06/a-guide-for-design-patterns-in-javascript/)
-- [The Magic of Time Boxing](https://pedrofullstack.com/2020/07/30/the-magic-of-time-boxing/)
 <!-- BLOG-POST-LIST:END -->
 
 
